@@ -9,3 +9,6 @@ Converts the number contained in register x10 (line 18) from decimal to ASCII an
 
 ## sum.s
 Loads two number from the `.data` section, sums them and print the result in the terminal
+
+## echo.s
+Get user input, store it in memory and print it out (treated as string).
